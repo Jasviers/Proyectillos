@@ -5,15 +5,15 @@
  usar.
 
 ## Cortos:
--Lanzar una moneda en telegram (Python y Lua?)
--Peticiones a una base de datos, analisis y visualizacion de los mismos (Python y SQL)
--Analisis de un archivo concurrentemente (Erlang)
--Chatbot en telegram que haga spam de forma basica (Python y API.AI)
+- Lanzar una moneda en telegram (Python y Lua?)
+- Peticiones a una base de datos, analisis y visualizacion de los mismos (Python y SQL)
+- Analisis de un archivo concurrentemente (Erlang)
+- Chatbot en telegram que haga spam de forma basica (Python y API.AI)
 
 
 ## Medios:
--Juego de la vida (Lua o Python)
+- Juego de la vida (Lua o Python)
 
 ## Largos:
--Replicar practica de midleware (Erlang)
--Retomar teletweepy (?) (Python)
+- Replicar practica de midleware (Erlang)
+- Retomar teletweepy (?) (Python)
